@@ -27,6 +27,7 @@ SyntaxHighlighter.autoloader(
 	'delphi pascal			$baseDir/thirdparty/syntaxhighlighter/scripts/shBrushDelphi.js',
 	'diff patch pas			$baseDir/thirdparty/syntaxhighlighter/scripts/shBrushDiff.js',
 	'erl erlang				$baseDir/thirdparty/syntaxhighlighter/scripts/shBrushErlang.js',
+	'go	golang				$baseDir/thirdparty/syntaxhighlighter/scripts/shBrushGoLang.js',
 	'groovy					$baseDir/thirdparty/syntaxhighlighter/scripts/shBrushGroovy.js',
 	'haxe hx				$baseDir/thirdparty/syntaxhighlighter/scripts/shBrushHaxe.js',
 	'java					$baseDir/thirdparty/syntaxhighlighter/scripts/shBrushJava.js',
